@@ -7,4 +7,16 @@ export const routes = [
     name: "Shop",
     path: "./shop",
   },
+  {
+    name: "Wishlist",
+    path: "./wishlist",
+  },
+  {
+    name: "Cart",
+    path: "./cart",
+  },
+  {
+    name: "Account",
+    path: "./account",
+  },
 ];
